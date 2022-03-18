@@ -1,4 +1,4 @@
-# Members -
-Suhraab Alimi
-Evan Ye
-Cody Kerr
+# Members:
+- Suhraab Alimi
+- Evan Ye
+- Cody Kerr
